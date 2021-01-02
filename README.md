@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Java, Python and Javascript.
 -->
-
+<img alt="Coding" src="./assets/coding.gif" width="25%" align="right"/>
 ### Languages 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-
-<img alt="Coding" src="./assets/coding.gif" width="25%" align="right"/>
 
 ### Technologies and Tools :wrench:
 
