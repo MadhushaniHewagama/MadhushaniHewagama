@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 #### Other areas
 ![Machnine Learning](https://img.shields.io/badge/-MachineLearning-000?)
 ![Computer Vision](https://img.shields.io/badge/-ComputerVision-000?)
+![Artificial Intelligence](https://img.shields.io/badge/-ArtificialIntelligence-000?)
 
 #### tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
