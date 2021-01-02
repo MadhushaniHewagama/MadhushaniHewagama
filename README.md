@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-<img alt="Night Coding" src="./assets/coding.gif" align="right"/>
 
 ### Technologies and Tools :wrench:
 
@@ -38,6 +37,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+
+<img alt="Night Coding" src="./assets/coding.gif" align="right"/>
 
 ### Let's Connect :coffee:
 <p align="center">
