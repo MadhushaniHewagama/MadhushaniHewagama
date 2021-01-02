@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red)
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Machnine Learning](https://img.shields.io/badge/-MachineLearning-000?)
-![Computer Vision](https://img.shields.io/badge/-ComputerVision-000?)
+![Computer Vision](https://img.shields.io/badge/-ComputerVision-000?)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
 ![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
