@@ -1,7 +1,7 @@
 <img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Madhushani</h2>
 
 ### Experiences 👨‍💻
-- Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='20' />
+- Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
 - Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' />
 <!--
 **MadhushaniHewagama/MadhushaniHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
