@@ -1,5 +1,8 @@
 <h2><img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hello! I'm Madhushani</h2>
 
+### Education 👩‍🎓
+- BSC Eng.Hons, Department Computer Science and Engineering<img alt="Coding" src="./assets/cse.png" width='40' align="left"/>, University of Moratuwa <img alt="Coding" src="./assets/uom.jpg" width='40' align="left"/>
+
 ### Experiences 👨‍💻
 - Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
 - Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' />
