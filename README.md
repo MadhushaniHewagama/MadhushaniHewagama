@@ -28,19 +28,24 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ### Technologies and Tools 🛠️
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=red)
+![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Machnine Learning](https://img.shields.io/badge/-MachineLearning-000?)
+![Computer Vision](https://img.shields.io/badge/-Computer Vision-000?)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Slack](https://img.shields.io/badge/-Slack-000?&logo=Slack)
+![Discord](https://img.shields.io/badge/-Discord-000?&logo=Discord)
 
 
 ### Let's Connect :coffee:
