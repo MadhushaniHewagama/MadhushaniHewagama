@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 
-<img alt="Night Coding" src="./assets/coding.gif" align="right"/>
 
 ### Let's Connect :coffee:
 <p align="center">
@@ -61,3 +60,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadhushaniHewagama&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<img alt="Night Coding" src="./assets/coding.gif" align="right"/>
