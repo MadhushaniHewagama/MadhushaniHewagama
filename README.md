@@ -42,8 +42,12 @@ Here are some ideas to get you started:
 	<a href="https://github.com/MadhushaniHewagama"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/madhushanihewagama/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/madhushani.hewagama"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+    <a href="https://medium.com/@madhushanihewagama.16"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="Medium"/></a>
+    <a href="https://stackoverflow.com/users/11856810/madhushani-hewagama"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="StackOverflow"/></a>
 	<a href="https://www.instagram.com/ishanka_n_madhushani/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Madhushanihewag"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+    <a href="https://sites.google.com/site/madhushanihewgama"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website"/></a>
+    <a href="https://www.pinterest.com/hewagamamadhushani"><img src="https://img.icons8.com/bubbles/50/000000/pinterest.png" alt="pinterest"/></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
