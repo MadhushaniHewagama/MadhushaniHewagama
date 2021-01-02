@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<img alt="Night Coding" src="./assets/coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/coding.gif" align="center"/>
