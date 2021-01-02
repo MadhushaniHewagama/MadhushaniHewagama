@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <a href="https://stackoverflow.com/users/11856810/madhushani-hewagama"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="StackOverflow"/></a>
 	<a href="https://www.instagram.com/ishanka_n_madhushani/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Madhushanihewag"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-    <a href="https://sites.google.com/site/madhushanihewgama"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website"/></a>
+    <a href="https://sites.google.com/cse.mrt.ac.lk/madhushanihewagama"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website"/></a>
     <a href="https://www.pinterest.com/hewagamamadhushani"><img src="https://img.icons8.com/bubbles/50/000000/pinterest.png" alt="pinterest"/></a>
 </p>
 
