@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
+<img alt="Night Coding" src="./assets/coding.gif" style= "width: 25%; float:right"/>
 
 ### Technologies and Tools :wrench:
 
@@ -61,4 +62,3 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<img alt="Night Coding" src="./assets/coding.gif" align="center"/>
