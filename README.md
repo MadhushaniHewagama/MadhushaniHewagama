@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that are using Java, Python and Javascript.
 -->
 <img alt="Coding" src="./assets/coding.gif" width="25%" align="right"/>
+
 ### Languages 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
