@@ -1,4 +1,7 @@
 <img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Madhushani</h2>
+
+### Experiences
+- 
 <!--
 **MadhushaniHewagama/MadhushaniHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <img alt="Coding" src="./assets/coding.gif" width="25%" align="right"/>
 
-### Languages 
+### Programming Languages 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
@@ -25,7 +28,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-### Technologies and Tools :wrench:
+### Technologies and Tools 🛠️
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
