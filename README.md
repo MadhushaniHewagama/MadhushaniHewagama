@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-⚡ Fun fact:
+- ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using Java, Python and Javascript.
+-->
 
 ### Languages 
 
