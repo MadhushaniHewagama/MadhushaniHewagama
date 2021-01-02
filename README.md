@@ -1,4 +1,4 @@
-<img alt="Coding" src="./assets/Hand%20Wave.gif" width='20' align="left"/><h2>Hello! I'm Madhushani</h2>
+<h2><img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>Hello! I'm Madhushani</h2>
 
 ### Experiences 👨‍💻
 - Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
