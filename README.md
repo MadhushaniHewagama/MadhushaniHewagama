@@ -6,6 +6,7 @@
 ### Experiences 👨‍💻
 - Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
 - Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' />
+- Associate Software Engineer at Chakray Consultancy Pvt Ltd <img alt="wabtec" src="./assets/chakray.jpg" width='20' />
 <!--
 **MadhushaniHewagama/MadhushaniHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
