@@ -4,9 +4,10 @@
 <a>BSC Eng.Hons, Department Computer Science and Engineering <img alt="Coding" src="./assets/cse.png" width='20'/> University of Moratuwa <img alt="Coding" src="./assets/uom.jpg" width='20'/></a>
 
 ### Experiences 👨‍💻
-- Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
-- Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' />
-- Associate Software Engineer at Chakray Consultancy Pvt Ltd <img alt="wabtec" src="./assets/chakray.jpg" width='20' />
+- Former Trainee Software Engineer at Wabtec corporation <img alt="wabtec" src="./assets/wabtec.png" width='40' />
+- Former Software Engineer at Syeta Labs <img alt="wabtec" src="./assets/syetaLabs.jpg" width='20' />
+- Former Associate Software Engineer at Chakray Consultancy Pvt Ltd <img alt="wabtec" src="./assets/chakray.jpg" width='20' />
+- Software Engineer at Chakray Consultancy Pvt Ltd <img alt="wabtec" src="./assets/chakray.jpg" width='20' />
 <!--
 **MadhushaniHewagama/MadhushaniHewagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
