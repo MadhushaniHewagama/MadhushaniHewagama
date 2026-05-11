@@ -135,13 +135,7 @@ Technical Lead | Enterprise Integration Specialist | API & IAM Engineer
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=MadhushaniHewagama&show_icons=true&theme=algolia"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaniHewagama&layout=compact&theme=algolia"/>
-</p>
+<p align="center"> <a href="https://github.com/MadhushaniHewagama"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MadhushaniHewagama&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MadhushaniHewagama&layout=compact&langs_count=8&theme=algolia"/> </a> </p>
 
 ---
 
